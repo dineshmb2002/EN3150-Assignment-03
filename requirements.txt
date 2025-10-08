@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pillow
+scikit-learn
+opencv-python
+imageio
+pandas
+seaborn
+jupyter
+
+
+# pip install -r requirements.txt

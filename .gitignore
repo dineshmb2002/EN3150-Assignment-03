@@ -1,0 +1,15 @@
+# Virtual environment
+cmu_faces_env/
+venv/
+.env/
+
+# Jupyter and Python cache
+.ipynb_checkpoints/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset (don't upload raw images)
+dataset/faces/
