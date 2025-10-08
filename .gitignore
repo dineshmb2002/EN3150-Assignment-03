@@ -11,5 +11,3 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Dataset (don't upload raw images)
-dataset/faces/
