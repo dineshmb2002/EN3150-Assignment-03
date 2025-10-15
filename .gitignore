@@ -11,3 +11,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+code/best_model.pth
+code/images.npy
