@@ -13,3 +13,15 @@ Thumbs.db
 
 code/best_model.pth
 code/images.npy
+code/class_names.npy
+code/classes.json
+code/filepaths.npy
+code/labels_encoded.npy
+code/labels.npy
+code/mean_std.npy
+code/split_test.npy
+code/split_train.npy
+code/split_val.npy
+code/test_manifest.csv
+code/train_manifest.csv
+code/val_manifest.csv
