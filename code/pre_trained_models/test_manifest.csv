@@ -1,0 +1,714 @@
+path,label,w,h,aspect_ratio
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_15.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_37.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_732.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_183.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_300.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_114.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_156.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_339.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_267.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_30.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_656.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_715.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_566.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_837.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_352.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_36.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_176.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_307.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_181.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_26.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_33.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_901.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_363.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_77.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_415.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_242.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_4.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_150.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_476.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_330.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_41.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_405.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_291.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_496.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_220.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_93.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_361.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_612.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_436.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_763.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_174.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_142.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_15.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_140.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_723.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_42.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_322.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_72.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_110.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_396.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_607.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_62.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_149.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_257.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_236.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_191.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_51.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_108.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_465.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_315.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_58.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_368.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_285.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_151.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_231.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_158.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_145.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_440.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_435.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_674.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_22.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_197.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_57.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_842.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_158.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_270.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_178.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_185.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_157.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_173.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_380.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_397.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_452.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_306.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_402.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_39.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_571.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_51.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_858.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_386.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_136.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_729.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_182.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_68.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_412.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_134.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_37.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_372.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_264.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_187.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_289.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_352.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_424.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_288.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_58.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_166.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_223.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_115.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_301.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_327.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_455.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_303.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_426.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_189.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_403.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_79.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_701.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_169.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_258.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_796.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_311.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_387.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_13.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_274.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_413.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_326.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_17.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_522.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_78.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_278.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_106.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_706.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_116.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_92.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_12.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_388.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_50.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_94.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_675.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_228.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_646.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_157.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_452.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_392.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_101.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_863.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_212.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_539.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_350.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_24.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_365.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_353.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_372.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_106.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_59.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_43.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_130.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_362.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_561.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_370.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_283.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_48.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_309.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_703.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_217.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_71.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_414.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_143.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_413.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_280.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_649.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_380.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_133.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_733.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_52.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_169.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_16.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_440.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_664.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_317.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_82.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_239.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_313.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_203.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_163.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_202.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_238.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_57.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_237.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_201.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_85.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_351.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_296.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_778.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_422.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_499.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_125.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_166.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_95.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_208.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_148.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_354.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_475.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_481.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_154.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_265.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_341.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_471.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_540.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_144.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_124.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_123.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_703.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_173.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_342.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_272.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_155.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_258.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_424.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_73.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_452.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_120.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_855.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_330.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_183.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_531.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_391.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_714.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_343.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_267.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_96.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_921.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_694.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_175.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_19.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_127.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_24.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_102.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_119.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_48.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_380.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_246.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_272.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_257.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_25.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_349.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_185.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_790.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_76.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_454.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_457.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_416.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_386.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_53.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_333.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_61.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_303.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_22.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_139.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_326.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_370.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_739.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_280.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_283.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_235.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_665.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_87.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_313.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_272.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_576.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_546.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_175.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_21.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_28.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_212.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_99.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_136.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_237.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_139.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_255.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_152.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_34.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_204.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_414.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_302.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_294.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_919.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_554.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_471.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_886.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_149.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_301.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_193.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_822.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_372.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_381.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_378.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_385.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_894.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_105.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_151.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_315.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_327.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_799.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_196.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_213.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_257.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_210.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_128.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_28.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_394.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_311.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_625.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_319.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_716.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_6.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_351.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_213.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_730.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_51.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_292.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_72.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_240.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_8.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_13.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_83.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_119.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_76.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_30.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_357.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_249.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_84.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_310.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_284.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_33.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_340.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_218.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_1.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_400.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_79.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_202.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_6.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_92.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_193.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_332.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_78.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_183.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_282.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_219.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_95.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_17.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_32.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_85.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_227.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_3.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_739.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_737.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_115.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_84.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_461.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_110.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_439.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_162.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_652.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_394.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_26.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_66.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_157.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_197.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_369.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_155.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_243.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_298.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_379.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_691.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_253.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_392.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_486.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_103.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_56.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_420.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_80.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_415.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_53.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_405.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_168.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_214.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_450.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_597.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_255.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_287.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_163.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_602.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_396.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_229.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_118.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_462.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_437.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_375.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_160.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_350.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_100.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_72.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_66.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_631.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_298.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_320.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_846.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_347.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_535.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_388.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_300.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_307.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_92.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_529.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_58.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_105.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_433.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_346.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_142.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_39.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_41.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_608.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_367.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_15.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_69.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_390.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_313.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_37.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_5.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_308.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_143.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_324.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_63.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_67.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_176.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_832.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_74.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_172.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_419.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_304.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_382.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_663.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_299.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_210.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_394.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_226.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_148.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_151.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_40.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_748.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_174.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_118.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_305.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_230.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_85.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_246.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_207.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_200.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_668.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_90.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_210.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_40.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_520.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_313.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_407.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_357.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_722.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_411.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_133.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_286.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_143.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_655.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_501.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_44.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_725.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_174.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_414.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_309.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_514.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_488.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_274.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_495.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_715.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_256.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_417.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_90.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_304.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_852.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_57.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_48.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_132.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_219.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_405.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_688.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_390.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_634.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_800.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_233.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_280.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_251.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_182.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_52.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_183.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_436.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_225.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_9.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_45.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_528.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_80.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_162.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_16.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_256.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_153.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_290.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_107.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_394.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_550.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_145.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_291.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_70.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_374.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_198.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_766.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_559.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_299.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_346.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_383.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_375.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_234.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_648.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_297.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_596.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_367.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_199.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_266.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_144.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_310.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_241.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_428.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_376.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_183.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_151.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_677.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_617.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_207.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_657.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_557.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_430.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_175.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_345.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_112.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_487.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_220.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_358.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_169.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_36.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_422.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_745.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_606.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_409.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_163.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_59.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_35.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_860.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_343.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_167.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_210.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_33.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_370.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_232.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_81.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_79.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_341.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_245.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_294.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_124.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_313.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_430.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_165.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_449.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_304.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_355.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_166.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_308.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_222.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_441.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_175.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_56.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_195.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_322.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_16.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_780.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_593.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_410.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_148.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_892.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_301.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_411.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_52.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_456.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_173.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_29.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_223.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_349.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_19.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_419.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_161.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_24.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_573.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_736.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_136.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_541.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_324.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_195.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_184.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_25.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_192.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_20.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_702.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_23.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_91.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_397.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_100.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_362.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_635.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_117.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_378.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_368.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_671.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_381.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_469.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_295.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_82.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_227.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_127.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_159.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_171.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_352.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_537.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_484.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_137.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_112.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_230.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_146.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_83.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_373.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_359.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_27.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_176.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_55.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_190.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_738.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_172.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_30.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_26.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_347.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_15.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_386.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_754.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_201.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_264.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_263.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_785.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_83.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Vegetation/Vegetation_257.jpg,Vegetation,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_64.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_210.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_96.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_243.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_805.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_415.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_105.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_374.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_343.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_476.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_257.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_64.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_79.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_871.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_325.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_21.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_299.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_354.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_124.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_91.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_213.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_182.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_10.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_164.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_323.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_299.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_764.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_238.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_65.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_76.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_216.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_279.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_156.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_145.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Plastic/Plastic_478.jpg,Plastic,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_216.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Cardboard/Cardboard_230.jpg,Cardboard,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Glass/Glass_77.jpg,Glass,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_55.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Paper/Paper_167.jpg,Paper,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_111.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Metal/Metal_534.jpg,Metal,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_54.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Food Organics/Food Organics_275.jpg,Food Organics,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Miscellaneous Trash/Miscellaneous Trash_253.jpg,Miscellaneous Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_184.jpg,Textile Trash,524,524,1.0
+/home/user/Desktop/PR_GROUP_ASSIGNMENT/EN3150-Assignment-03/realwaste/realwaste-main/RealWaste/Textile Trash/Textile Trash_209.jpg,Textile Trash,524,524,1.0
